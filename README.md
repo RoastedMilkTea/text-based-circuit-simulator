@@ -1,2 +1,2 @@
 # text-based-circuit-simulator
-helped with studying ece110 final
+coded this as apart of aps105; however, this helped with studying ece110 final
